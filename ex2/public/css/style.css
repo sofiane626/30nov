@@ -1,0 +1,43 @@
+.box {
+    height: 100vh;
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.div1 {
+    height: 10%;
+    width: 100%;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+.div2 {
+    height: 78%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div3 {
+    height: 10%;
+    width: 100%;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+.div2-1 {
+    height: 100%;
+    width: 10%;
+    background-color: rgb(236, 141, 227);
+    border-radius: 5px;
+}
+
+.div2-2 {
+    height: 100%;
+    width: 78%;
+    background-color: rgb(146, 146, 229);
+    border-radius: 5px;
+}
